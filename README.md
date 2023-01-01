@@ -11,8 +11,4 @@
 - ⚡ Fun fact : **I think I am funny!**
 
 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=affanmir19&show_icons=true&locale=en&layout=compact" alt="affanmir19" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=affanmir19&" alt="affanmir19" /></p>
