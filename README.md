@@ -1,16 +1,62 @@
-## Hi there 👋
+<!-- TOP CODING BANNER -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1600&q=80" />
+</p>
 
-<!--
-**affanmir19/affanmir19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Mir Mohammad Afan</h1>
+<h3 align="center">Frontend Developer | React.js Learner</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🌱 Currently learning **React.js**
+- 💻 Interested in **Frontend Development**
+- 🚀 Love building clean & responsive web apps
+
+---
+
+## 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,bootstrap,git&theme=dark" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.instagram.com/affanmir19" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mir-mohammad-afan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/mirafan26" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  </a>
+</p>
+
+---
+
+## 🔥 GitHub Streaks
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=affanmir19&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=affanmir19&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=affanmir19&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
+</p>
