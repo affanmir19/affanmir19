@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 - 🌱 Currently learning **React.js**
 - 💻 Interested in **Frontend Development**
-- 🚀 Love building clean & responsive web apps
+- ⚡ Fun fact: I an good at sleeping
 
 ---
 
