@@ -31,7 +31,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/mirafan26" target="_blank">
+  <a href="https://stackoverflow.com/users/19275138/mirafan26" target="_blank">
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
 </p>
