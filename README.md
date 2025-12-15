@@ -1,6 +1,6 @@
 <!-- TOP CODING BANNER -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1600&q=80" />
+  <img src="https://aestheticblasphemy.com/static/media/images/archive/maxresdefault.jpg" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mir Mohammad Afan</h1>
