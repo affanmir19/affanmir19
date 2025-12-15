@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mir-mohammad-afan" target="_blank">
+  <a href="https://www.linkedin.com/in/mir-mohammad-afan-07170734b/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
